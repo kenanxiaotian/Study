@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>d9dff671-7810-4138-9123-2bcbf7c48429</identifier>
+  <displayType>Simulink Model</displayType>
+  <translatedDisplayType>
+    <en_US>Simulink Model</en_US>
+    <ja_JP>Simulink モデル</ja_JP>
+    <ko_KR>Simulink 모델</ko_KR>
+    <zh_CN>Simulink 模型</zh_CN>
+  </translatedDisplayType>
+  <name>Renewable Energy Based Micro Grid  Power Management System </name>
+  <author>PIRC</author>
+  <version>1.1.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/d9dff671-7810-4138-9123-2bcbf7c48429/95e0bc09-11ce-442f-be4c-1651627847b9/packages/zip?src=addons_ml_desktop_install&amp;profile_id=30692906&amp;license=40588452&amp;release_family=R2024a</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/d9dff671-7810-4138-9123-2bcbf7c48429/1.1.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/d9dff671-7810-4138-9123-2bcbf7c48429/95e0bc09-11ce-442f-be4c-1651627847b9/images/screenshot.png</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/d9dff671-7810-4138-9123-2bcbf7c48429/95e0bc09-11ce-442f-be4c-1651627847b9/releaseNotes</releaseNotesUrl>
+  <installationFolder>Simulink Models</installationFolder>
+</addOn>

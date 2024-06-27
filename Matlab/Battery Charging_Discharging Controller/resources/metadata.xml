@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>e49084b6-a3e4-48cb-8fa5-88dc26ace894</identifier>
+  <displayType>Simulink Model</displayType>
+  <translatedDisplayType>
+    <en_US>Simulink Model</en_US>
+    <ja_JP>Simulink モデル</ja_JP>
+    <ko_KR>Simulink 모델</ko_KR>
+    <zh_CN>Simulink 模型</zh_CN>
+  </translatedDisplayType>
+  <name>Battery Charging/Discharging Controller</name>
+  <author>Osama Hebala</author>
+  <version>2.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/e49084b6-a3e4-48cb-8fa5-88dc26ace894/d39cd712-c5ab-4fc2-b844-34cce4f85697/packages/zip?src=addons_ml_desktop_install&amp;profile_id=30692906&amp;license=40588452&amp;release_family=R2024a</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/e49084b6-a3e4-48cb-8fa5-88dc26ace894/2.0.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/e49084b6-a3e4-48cb-8fa5-88dc26ace894/d39cd712-c5ab-4fc2-b844-34cce4f85697/images/1620306494.png</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/e49084b6-a3e4-48cb-8fa5-88dc26ace894/d39cd712-c5ab-4fc2-b844-34cce4f85697/releaseNotes</releaseNotesUrl>
+  <installationFolder>Simulink Models</installationFolder>
+</addOn>
